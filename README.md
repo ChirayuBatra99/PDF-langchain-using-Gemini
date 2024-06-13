@@ -3,7 +3,7 @@
 1. To setup a virtual environment to install all the packages we can use the command: 
 **python3 -m venv YOUR_ENVIRONMENT_NAME**
 2. After creating the virtual environment, we can install the packages by following the below steps.
-3. Requirements are mentioned in the requirements.txt file and can be installed using the command:  pip3 install -r requirements.txt
+3. Requirements are mentioned in the requirements.txt file and can be installed using the command:  **pip3 install -r requirements.txt**
   (You can use pip3 if using python 3)
 
 ## Setup .env file
